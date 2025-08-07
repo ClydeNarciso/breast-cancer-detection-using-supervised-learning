@@ -6,4 +6,4 @@ We have a dataset 'Breast_cancer_dataset.csv' containing features derived from d
 
 Join me as I engineer the features, tune the hyperparameters for optimal model performance, and evaluate model performance!
 
-**Go to the the .ipynb file**
+**Now, go to the the .ipynb file above!**

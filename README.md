@@ -1,6 +1,6 @@
 ### Binary Classification of Breast Cancer Using K-Nearest Neighbors and Logistic Regression... and working on SVM!
 
-In this project, I will be comparing the results of supervised machine learning algorithms to classify the binary target variable indicating malignancy. I will be using Kaggle Notebook for all Python programming.
+In this project, I will analyze the accuracy of supervised machine learning algorithms in detecting breast cancer in the samples. I will be using Kaggle Notebook for all Python programming.
 
 We have a dataset 'Breast_cancer_dataset.csv' containing features derived from digitized images of fine needle aspirates (FNA) of breast masses, and labels of 'Benign' or 'Malignant'.
 

@@ -1,4 +1,4 @@
-### Binary Classification of Breast Cancer Using K-Nearest Neighbors and Logistic Regression
+### Binary Classification of Breast Cancer Using K-Nearest Neighbors and Logistic Regression... and working on SVM!
 
 In this project, I will be comparing the results of the two algorithms to classify the binary target variable indicating malignancy. I will be using Kaggle Notebook for all Python programming.
 

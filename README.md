@@ -14,7 +14,9 @@ The project will flow as follows:
 3. Finally, we evaluate model performance through Confusion Matrix analysis
 ---
 
-Join me as I engineer the features, tune the hyperparameters, and evaluate model performance! The code in this project is well-documented. Feel free to follow along!
+Join me as I engineer the features, tune the hyperparameters, and evaluate model performance! 
+
+The code in this project is well-documented. Feel free to follow along!
 
 ---
 

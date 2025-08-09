@@ -1,4 +1,4 @@
-### Automated Breast Cancer Detection through Binary Classification Using K-Nearest Neighbors and Logistic Regression... and working on SVM!
+### Automated Breast Cancer Detection through Binary Classification using K-Nearest Neighbors and Logistic Regression... and working on SVM!
 
 In this project, several supervised learning algorithms will be used in order to classify a sample as cancerous or not. 
 

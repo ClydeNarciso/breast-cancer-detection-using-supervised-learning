@@ -16,4 +16,8 @@ The project will flow as follows:
 
 Join me as I engineer the features, tune the hyperparameters, and evaluate model performance!
 
+---
+
 **Now, go to the the .ipynb file above!**
+
+---

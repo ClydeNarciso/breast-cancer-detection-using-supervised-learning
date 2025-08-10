@@ -1,6 +1,6 @@
 ### Automated Breast Cancer Detection through Binary Classification using K-Nearest Neighbors, Logistic Regression, and SVMs!
 ---
-In this project, several supervised learning algorithms will be used in order to classify a sample as benign or malignant. 
+In this project, several supervised learning algorithms will be evaluated in classifying samples as benign or malignant. 
 
 The dataset used in this project contains numerical measurements of cell nuclei, such as radius, texture, perimeter, and area, derived from digitized images of fine needle aspirates (FNA) of breast masses, and labels of 'Benign' or 'Malignant'. The dataset source is the University of Wisconsin, provided through Kaggle.
 
